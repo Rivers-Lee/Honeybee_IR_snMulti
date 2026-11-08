@@ -1,0 +1,9 @@
+composition	n_models	n_seeds	complete	mean_iptm	mean_pae	mean_delta_g	n_delta_g	summary_status	role
+ir75g_ir8a_22	25	5	True	0.7367999999999999	20.679834336728263	-80.884	25	complete	candidate
+ir75g_ir25a_22	25	5	True	0.6587999999999999	23.094917693333866	-81.984	25	complete	candidate
+ir75g_ir76b_ir8a_112	25	5	True	0.6824000000000001	22.393830850097807	-43.24	25	complete	candidate
+ir75g_ir76b_ir25a_112	25	5	True	0.638	23.796697934388302	-43.57599999999999	25	complete	candidate
+ir75g_ir76b_ir8a_ir25a_1111	25	5	True	0.6688	22.978653425113905	-45.687999999999995	25	complete	candidate
+ir75g_4	25	5	True	0.54	20.536444890607445		0	complete	baseline
+ir75g_ir76b_22	25	5	True	0.6008	22.141760931388212	-63.604000000000006	25	complete	baseline
+ir76b_ir25a_22	25	5	True	0.6232	24.493665920912328	-84.04	25	complete	baseline

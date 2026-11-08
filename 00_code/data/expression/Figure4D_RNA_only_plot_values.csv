@@ -1,0 +1,34 @@
+species,combination,clusters,cells,cluster_pct
+Honeybee,Ir25a,1,55,1.6666666666666667
+Mosquito,Ir25a,1,872,2.127659574468085
+Fruit fly,Ir25a,0,0,0.0
+Honeybee,Orco,0,0,0.0
+Mosquito,Orco,10,13729,21.27659574468085
+Fruit fly,Orco,2,272,4.651162790697675
+Honeybee,Ir76b+Ir25a,0,0,0.0
+Mosquito,Ir76b+Ir25a,7,6465,14.893617021276595
+Fruit fly,Ir76b+Ir25a,0,0,0.0
+Honeybee,Ir25a+Ir8a,0,0,0.0
+Mosquito,Ir25a+Ir8a,7,4858,14.893617021276595
+Fruit fly,Ir25a+Ir8a,0,0,0.0
+Honeybee,Ir76b+Orco,0,0,0.0
+Mosquito,Ir76b+Orco,0,0,0.0
+Fruit fly,Ir76b+Orco,4,614,9.30232558139535
+Honeybee,Ir25a+Orco,0,0,0.0
+Mosquito,Ir25a+Orco,18,14512,38.297872340425535
+Fruit fly,Ir25a+Orco,10,1449,23.25581395348837
+Honeybee,Ir76b+Ir25a+Ir8a,0,0,0.0
+Mosquito,Ir76b+Ir25a+Ir8a,1,437,2.127659574468085
+Fruit fly,Ir76b+Ir25a+Ir8a,0,0,0.0
+Honeybee,Ir76b+Ir25a+Orco,26,1799,43.333333333333336
+Mosquito,Ir76b+Ir25a+Orco,1,232,2.127659574468085
+Fruit fly,Ir76b+Ir25a+Orco,16,2498,37.2093023255814
+Honeybee,Ir76b+Ir8a+Orco,5,332,8.333333333333334
+Mosquito,Ir76b+Ir8a+Orco,0,0,0.0
+Fruit fly,Ir76b+Ir8a+Orco,0,0,0.0
+Honeybee,Ir25a+Ir8a+Orco,0,0,0.0
+Mosquito,Ir25a+Ir8a+Orco,0,0,0.0
+Fruit fly,Ir25a+Ir8a+Orco,3,256,6.976744186046512
+Honeybee,Ir76b+Ir25a+Ir8a+Orco,28,1989,46.666666666666664
+Mosquito,Ir76b+Ir25a+Ir8a+Orco,2,405,4.25531914893617
+Fruit fly,Ir76b+Ir25a+Ir8a+Orco,8,1155,18.6046511627907

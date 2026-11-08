@@ -1,0 +1,49 @@
+ligand_id	name
+FL001	linalool
+FL002	phenylacetaldehyde
+FL003	benzaldehyde
+FL004	benzyl alcohol
+FL005	2-phenylethanol
+HB002	2-heptanone
+HB003	1-hexanol
+HB004	1-octanol
+HB006	geraniol
+HB007	nerol
+HB009	geranial
+HB010	neral
+HB011	geranic acid
+HB012	nerolic acid
+HB013	farnesol
+HB014	9-oxo-2-decenoic acid
+HB015	9-hydroxy-2-decenoic acid
+HB016	10-hydroxy-2-decenoic acid
+HB018	homovanillyl alcohol
+IR001	formic acid
+IR002	acetic acid
+IR003	propionic acid
+IR004	butyric acid
+IR005	isobutyric acid
+IR006	valeric acid
+IR007	isovaleric acid
+IR008	hexanoic acid
+IR009	octanoic acid
+IR010	lactic acid
+IR011	pyruvic acid
+IR012	ammonia
+IR013	methylamine
+IR014	dimethylamine
+IR015	trimethylamine
+IR016	ethylamine
+IR017	propylamine
+IR018	butylamine
+IR019	isoamylamine
+IR020	putrescine
+IR021	cadaverine
+IR022	phenethylamine
+IR023	tyramine
+RX001	formaldehyde
+RX002	acetaldehyde
+RX003	propanal
+RX004	butyraldehyde
+RX005	acrolein
+RX006	crotonaldehyde

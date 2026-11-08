@@ -1,0 +1,12 @@
+sequence	feature	alignment_column_start_1based	alignment_column_end_1based	start	end	source
+Rpro_IR8a	published_red_box_homologous_region	5	70	607	662	Fig2C red-box edges, published alignment columns retained; not an entire D2 boundary
+Dmel_IR8a	published_red_box_homologous_region	5	70	643	698	Fig2C red-box edges, published alignment columns retained; not an entire D2 boundary
+Amel_IR8a	published_red_box_homologous_region	5	70	638	693	Fig2C red-box edges, published alignment columns retained; not an entire D2 boundary
+Amel_IR25a	published_red_box_homologous_region	5	70	686	744	Fig2C red-box edges, published alignment columns retained; not an entire D2 boundary
+Amel_IR8a	model_DSSP_H1			639	663	ir75g_ir8a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR8a	model_DSSP_H2			683	693	ir75g_ir8a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR8a	model_DSSP_H3			699	708	ir75g_ir8a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR25a	model_DSSP_H1			687	710	ir75g_ir25a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR25a	model_DSSP_H2			717	723	ir75g_ir25a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR25a	model_DSSP_H3			733	744	ir75g_ir25a_22 representative chain C; candidate helix, not experimental domain
+Amel_IR25a	model_DSSP_H4			750	757	ir75g_ir25a_22 representative chain C; candidate helix, not experimental domain
